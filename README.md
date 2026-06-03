@@ -11,8 +11,8 @@
 
 <!-- What topic or category of knowledge does your system cover?
      Why is this knowledge valuable, and why is it hard to find through official channels?
-     Example: "Student reviews of CS professors at [university] — useful because official
-     course descriptions don't reflect teaching style, exam difficulty, or workload." -->
+     Student reviews of CS professors at Florida Atlantic University. They are valuable because official
+     channels do not go in depth of the assignments, grades, and the best way to prepare for the class. -->
 
 ---
 
@@ -24,16 +24,16 @@
 
 | # | Source | Type | URL or file path |
 |---|--------|------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 |https://www.ratemyprofessors.com/professor/2064010 |RateMyProfessor | URL|
+| 2 |https://www.ratemyprofessors.com/professor/3009089 |RateMyProfessor | URL|
+| 3 |https://www.ratemyprofessors.com/professor/1347714 |RateMyProfessor | URL|
+| 4 |https://www.ratemyprofessors.com/professor/2950560 |RateMyProfessor | URL|
+| 5 |https://www.ratemyprofessors.com/professor/2963915 |RateMyProfessor | URL|
+| 6 |https://www.ratemyprofessors.com/professor/3040206 |RateMyProfessor | URL|
+| 7 |https://www.ratemyprofessors.com/professor/105340 |RateMyProfessor | URL|
+| 8 |https://www.ratemyprofessors.com/professor/1125025 |RateMyProfessor | URL|
+| 9 |https://www.ratemyprofessors.com/professor/872396 |RateMyProfessor | URL|
+| 10 |https://www.ratemyprofessors.com/professor/2531409  |RateMyProfessor| URL|
 
 ---
 

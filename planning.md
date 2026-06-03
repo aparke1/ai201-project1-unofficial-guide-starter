@@ -10,7 +10,8 @@
 ## Domain
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
-
+ Student reviews of CS professors at Florida Atlantic University. They are valuable because official
+     channels do not go in depth of the assignments, grades, and the best way to prepare for the class.
 ---
 
 ## Documents
@@ -18,18 +19,19 @@
 <!-- List your specific sources: URLs, subreddit names, forum threads, or file descriptions.
      Aim for at least 10 sources that together cover different subtopics or perspectives within your domain. -->
 
-| # | Source | Description | URL or location |
-|---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| # | Source | Type | URL or file path |
+|---|--------|------|-----------------|
+| 1 |https://www.ratemyprofessors.com/professor/2064010 |RateMyProfessor | URL|
+| 2 |https://www.ratemyprofessors.com/professor/3009089 |RateMyProfessor | URL|
+| 3 |https://www.ratemyprofessors.com/professor/1347714 |RateMyProfessor | URL|
+| 4 |https://www.ratemyprofessors.com/professor/2950560 |RateMyProfessor | URL|
+| 5 |https://www.ratemyprofessors.com/professor/2963915 |RateMyProfessor | URL|
+| 6 |https://www.ratemyprofessors.com/professor/3040206 |RateMyProfessor | URL|
+| 7 |https://www.ratemyprofessors.com/professor/105340 |RateMyProfessor | URL|
+| 8 |https://www.ratemyprofessors.com/professor/1125025 |RateMyProfessor | URL|
+| 9 |https://www.ratemyprofessors.com/professor/872396 |RateMyProfessor | URL|
+| 10 |https://www.ratemyprofessors.com/professor/2531409  |RateMyProfessor| URL|
+
 
 ---
 
